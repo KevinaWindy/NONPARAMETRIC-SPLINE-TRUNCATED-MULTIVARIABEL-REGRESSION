@@ -1,1 +1,2 @@
-# NONPARAMETRIC-SPLINE-TRUNCATED-MULTIVARIABEL-REGRESSION
+# Nonparametric-Spline-Truncated-Multivariabel-Regression
+Angka Partisipasi Kasar SLTA Tahun 2015 di Provinsi Jawa Timur
